@@ -36,7 +36,7 @@
 
 
   <a href="https://discord.gg/UseKhxMp" target="_blank">
-    <img src="https://gib.stable.is/discord-icon.png" alt="Discord icon">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord icon">
   </a>
   <a href="https://parallel.earth" target="_blank">
     <img src="https://gib.stable.is/website-icon.png" alt="Website icon">
