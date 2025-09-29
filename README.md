@@ -38,8 +38,8 @@
   <a href="https://discord.gg/UseKhxMp" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord icon">
   </a>
-  <a href="https://parallel.earth" target="_blank">
-    <img src="https://www.linkedin.com/in/pedro-ocanha-893893351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="Linkedin icon">
+  <a href="https://www.linkedin.com/in/pedro-ocanha-893893351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin icon">
   </a>
 </div>
 
