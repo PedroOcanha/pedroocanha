@@ -32,5 +32,15 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedroocanha/pedroocanha/output/github-contribution-grid-snake.svg">
 </picture>
   <br>  
+<div class="social-links">
+
+
+  <a href="https://discord.gg/UseKhxMp" target="_blank">
+    <img src="https://gib.stable.is/discord-icon.png" alt="Discord icon">
+  </a>
+  <a href="https://parallel.earth" target="_blank">
+    <img src="https://gib.stable.is/website-icon.png" alt="Website icon">
+  </a>
+</div>
 
 </div>
