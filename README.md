@@ -1,4 +1,4 @@
-## Hi there I am Pedro! 👋 How are you?
+## Hi there I am Pedro! And this is my profile :D
 <!--
 -  I’m currently working on my own project, its only an idea for now,further forward I will tell more...
 -  I’m currently learning python,sql,Java Script,c++,and Front-end
@@ -17,7 +17,7 @@
 <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroocanha&layout=compact&langs_count=16&theme=dark"/>
 </div>
   </div>
-*Languages :D*
+
 <div style="display: inline_block"><br>
 <img align="center" alt-"Pedro-3s" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
