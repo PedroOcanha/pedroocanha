@@ -19,12 +19,12 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 
-
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedroocanha/pedroocanha/output/github-contribution-grid-snake.svg">
 </p>
 
-
+---
 ###  Socials
 <p align="center">
   <a href="https://discord.gg/UseKhxMp"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
