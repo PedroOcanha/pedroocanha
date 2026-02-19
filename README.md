@@ -5,24 +5,6 @@
   <img src="https://email-files.fangamer.com/list_48/campaign_8/dw_campfire-i1pyKBJ9BRgjP1OS.gif" height="160"/>
 </p>
 
----
-
-###  GitHub Stats
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pedroocanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroocanha&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</p>
-
-
-
 
 ---
 
