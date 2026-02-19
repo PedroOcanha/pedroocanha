@@ -9,16 +9,18 @@
 
 ###  GitHub Stats
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=pedroocanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=pedroocanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroocanha&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroocanha&layout=compact&theme=tokyonight"
     height="170"
   />
 </p>
+
 
 
 
