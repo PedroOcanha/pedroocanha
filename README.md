@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Pedro</h1>
-<h3 align="center">Future Developer | Indie Games Lover 🎮</h3>
+<h1 align="center">Hi there  I'm Pedro</h1>
+<h3 align="center"> | Future Developer |</h3>
 
 ---
 
