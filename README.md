@@ -19,14 +19,11 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 
----
 
-###  Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/pedroocanha/pedroocanha/output/github-contribution-grid-snake.svg">
 </p>
 
----
 
 ###  Socials
 <p align="center">
